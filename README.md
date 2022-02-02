@@ -1,6 +1,6 @@
 # 以下のURLからダウンロード
 ### mac
-https://github.com/PacketViz/Release/releases/download/mac/PacketViz
+https://github.com/PacketViz/Release/releases/download/mac/PacketViz.command
 
 ### windows
 https://github.com/PacketViz/Release/releases/download/windows/PacketViz.exe
