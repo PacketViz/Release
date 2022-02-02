@@ -5,7 +5,8 @@ https://github.com/PacketViz/Release/releases/download/mac/PacketViz
 ### windows
 https://github.com/PacketViz/Release/releases/download/windows/PacketViz.exe
 
-## macのエラー
+# macのエラー
+## セキュリティエラー
 macの場合以下のようなエラーが出ることがあります。
 
 ![cannot_open](./mac_cannot_open.png)
@@ -18,3 +19,9 @@ macの場合以下のようなエラーが出ることがあります。
 
 ## ダークモード非対応
 macのダークモードには非対応なので、ライトモードにしてお使いください。
+
+## 権限エラー
+以下のコマンドを実行してください。
+```
+chmod a+x PacketViz.command
+```
